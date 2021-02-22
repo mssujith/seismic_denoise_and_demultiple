@@ -11,4 +11,4 @@ type of dispersive waveform that propagates along the surface and is low-frequen
 ## Predictive Deconvolution
 In predictive deconvolution, a time-advanced form of input signal is taken and it is cross-correlated with the
 input signal. If we consider our input as i(t), we want to predict its value at some future time (t + α), where α
-is the prediction lag. The desired output will be d(t) = i(t + α), time-advanced form of i(t).
+is the prediction lag. The desired output will be d(t) = i(t + α), which is time-advanced form of i(t).
